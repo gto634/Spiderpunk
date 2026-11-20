@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpidermanBigTime
+  m_Controller: {fileID: 9100000, guid: 69e421a5a7504bbf9f335158d8c2a835, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a7737b8f54bc4901b6c7803931889110, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 9bf4396537f049fb80032785ed216ea3, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a5869cf174541c690713a6aab12be25, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 4bb9c0d6cd7949ada80bf30862a91efd, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 18601b09ead04ae98439a6fba3903ae0, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 447eeb8d0916498092f2309c749bf155, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 13db5d02d9e5421988cce4068ce61ca8, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: cb98f4ee728e4a1f8e7a90c0c7add02a, type: 3}

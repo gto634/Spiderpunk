@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpidermanSteampunk
+  m_Controller: {fileID: 9100000, guid: 69e421a5a7504bbf9f335158d8c2a835, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a7737b8f54bc4901b6c7803931889110, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 8e798b9c89db415390c050a8828ae833, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a5869cf174541c690713a6aab12be25, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0489831a8e9e47ddaba5352d31ad90f1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 18601b09ead04ae98439a6fba3903ae0, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: b8f3b95b13c745cb893f7005b65bc574, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 13db5d02d9e5421988cce4068ce61ca8, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0a1870c47abd4566a3c65ac64c1b026b, type: 3}

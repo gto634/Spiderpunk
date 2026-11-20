@@ -1,0 +1,13 @@
+.clock-timer {
+    flex-direction: row;
+    align-items: center;
+}
+
+.clock-timer-label {
+    flex: 2;
+}
+
+.clock-timer-value {
+    flex: 1;
+    min-width: 42px;
+}
